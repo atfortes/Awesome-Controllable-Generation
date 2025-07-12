@@ -34,6 +34,17 @@
  
 # <h1 id="papers">📝 Papers<h1/>
 
+## 2025
+1. **[DynamicID: Zero-Shot Multi-ID Image Personalization with Flexible Facial Editability.](https://arxiv.org/pdf/2503.06505)** [[paper](https://arxiv.org/pdf/2503.06505)] [[code](https://arxiv.org/pdf/2503.06505)]
+
+    *Xirui Hu, Jiahao Wang, Hao Chen, Weizhan Zhang, Benqi Wang, Yikun Li, Haishun Nan.* ICCV'25. 🔥
+
+    ![](https://img.shields.io/badge/Image-blue?style=flat-square)![](https://img.shields.io/badge/Subject--Driven-orange?style=flat-square)
+
+    <img src="assets/dynamicid.png" style="width:100%">
+
+
+
 ## 2024
 
 1. **[IFAdapter: Instance Feature Control for Grounded Text-to-Image Generation.](https://arxiv.org/abs/2409.08240)** 🔥 [[project](https://ifadapter.github.io/)] [[paper](https://arxiv.org/abs/2409.08240)] [[code](https://github.com/WUyinwei-hah/IFAdapter)]
