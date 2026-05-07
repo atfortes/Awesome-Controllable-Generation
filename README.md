@@ -524,6 +524,8 @@
 
 1. **[Awesome-Controllable-T2I-Diffusion-Models](https://github.com/PRIV-Creation/Awesome-Controllable-T2I-Diffusion-Models)**  A collection of resources on controllable generation with text-to-image diffusion models.
 
+1. **[Awesome-Latent-Refinement](https://github.com/matinaghaei/awesome-latent-refinement)**  Research on iterative reasoning and planning in latent space.
+
 
 <p align="right" style="font-size: 14px; color: #555; margin-top: 20px;">
     <a href="#readme-top" style="text-decoration: none; color: #007bff; font-weight: bold;">
